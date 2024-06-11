@@ -1,5 +1,29 @@
 {
   "id" : "1",
 "event" : "ORDER_BROKER_NEW",
-"data": [{"custodianAccount":"5596", "orderDate":"2024-01-01", "orderId":1, "orderEntryDate":"2024-01-01T19:25:13.000Z", "orderRealizedDate":"2024-01-01T09:25:13.000Z" , "orderModifiedDate":"2024-01-01T14:25:13.000Z", "orderSubmissionDate":"2024-01-01T09:05:13.000Z", "turibTradeNo":"T202401010000000001","turibOrderNo":"O202401010000000001","orderStatus":"NEW", "side":"BUY","orderMethod":"LIMIT","timeInForce": "DAY", "elusIsin":"TRXXKPB12316","symbol":"E_TURHBTBGDMAKSN2_MN_GAB_SLF_VRS_ZEN_2023_TRXXKPB12316", "addedDesc":"A", "orderQty": 500.00,"remainQty": 500.00, "realizedQty":0, "limitPrice":25,"avgRealizedPrice":0.00, "totalAmount":12500.00,"realizedAmount":0.00"}]
+"data": [
+  {
+    "custodianAccount":"5596", 
+    "orderDate":"2024-01-01", 
+    "orderId":1, 
+    "orderEntryDate":"2024-01-01T19:25:13.000Z", 
+    "orderRealizedDate":"2024-01-01T09:25:13.000Z" , 
+    "orderModifiedDate":"2024-01-01T14:25:13.000Z", 
+    "orderSubmissionDate":"2024-01-01T09:05:13.000Z", 
+    "turibTradeNo":"T202401010000000001",
+    "turibOrderNo":"O202401010000000001",
+    "orderStatus":"NEW", 
+    "side":"BUY",
+    "orderMethod":"LIMIT",
+    "timeInForce": "DAY",
+    "elusIsin":"TRXXKPB12316",
+    "symbol":"E_TURHBTBGDMAKSN2_MN_GAB_SLF_VRS_ZEN_2023_TRXXKPB12316", 
+    "addedDesc":"A", 
+    "orderQty": 500.00,
+    "remainQty": 500.00,
+    "realizedQty":0, 
+    "limitPrice":25,
+    "avgRealizedPrice":0.00,
+    "totalAmount":12500.00,
+    "realizedAmount":0.00"}]
 }
